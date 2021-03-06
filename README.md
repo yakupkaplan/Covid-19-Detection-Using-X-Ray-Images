@@ -8,3 +8,8 @@ __Datasets to be used:__
    - Pneumonia dataset by Praveen -> pneumonia negative images used for covid-19 negative images
 
 -> By using these datasets 500 Covid-19 positive images and 1600 Covid-19 negative images are created.
+
+__References:__
+   - https://www.youtube.com/watch?v=ol0OYJoBC4A&list=PLeR1DH-2kjIr_IZZIC64Mmf5wKEdekRZU&index=11
+   - https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
+
